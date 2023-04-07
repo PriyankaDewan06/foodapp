@@ -1,0 +1,18 @@
+body{
+    margin: 30px;
+    padding: 50px;
+}
+table{
+    width: 80%;
+    height: 550px;
+}
+#order{
+    background: maroon;
+    text-align: center;
+    color: aliceblue;
+}
+#printorder{
+    background: greenyellow;
+    text-align: center;
+    color: black;
+}
